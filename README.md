@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+You found my github profile. That's great! Now, a little bit about myself:
+
+
 
 <!--
 **fcrozetta/fcrozetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
