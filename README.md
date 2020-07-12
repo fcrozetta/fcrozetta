@@ -48,6 +48,11 @@ I'm always looking for some project I can participate. ALWAYS.
 ## 📫 How to reach me
 
 📷 [@crozetta](https://www.instagram.com/crozetta/) | ✉ fernando@czetta.com
+
+## ⚡ Fun fact:
+I try to create content and applications for free, to everyone. This takes all my free time, and some money. If you want to help me, please consider donating. This helps me creating more content to everyone.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L01VSK2)
 <!--
 **fcrozetta/fcrozetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
