@@ -47,10 +47,12 @@ I'm always looking for some project I can participate. ALWAYS.
 
 ## 📫 How to reach me
 
-📷 [@crozetta](https://www.instagram.com/crozetta/) | ✉ fernando@czetta.com
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fcrozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/fcrozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernandocrozetta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/crozetta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4533171/fernando-crozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://czetta.com)  
 
 ## ⚡ Fun fact:
 I try to create content and applications for free, to everyone. This takes all my free time, and some money. If you want to help me, please consider donating. This helps me creating more content to everyone.
+
+
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L01VSK2)
 <!--
