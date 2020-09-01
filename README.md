@@ -10,15 +10,15 @@ I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my p
 
 ## 🕶 My favorite languages:
 
-- 🐍 Python
+- :snake: Python
 - 🥽 C#
 - 🖥 Bash
-- 🌐 Typescript
-- 🌐 Javascript
+- :globe_with_meridians: Typescript
+- :globe_with_meridians: Javascript
 
 ## 🧐 My favorite Technologies:
  
-- ❤ tui-netcore (my 1st library)
+- :heart: tui-netcore (my 1st library)
 - 🧡 Vue
 - 💛 Flutter
 - 💚 MongoDB
