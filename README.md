@@ -20,32 +20,25 @@ I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my p
  
 - :heart: tui-netcore (my 1st library)
 - 🧡 Vue
-- 💛 Flutter
-- 💚 MongoDB
-- 💙 PostgreSQL
-- 💜 Heroku
+- :yellow_heart: Flutter
+- :green_heart: MongoDB
+- :blue_heart: PostgreSQL
+- :purple_heart: Heroku
 - 🤎Azure
-- 🖤 AWS
+- 🖤 AWS (learning)
   
 ## 🔭 I am currently working on
 
-- 🆘 Looking for a full time position
-  - 🌎 (anywhere in the world **and/or** remote)
-- 👓 Tui-netcore
-- 📜 First Bash book
+- :earth_americas: (anywhere in the world **and/or** remote)
+- :eyeglasses: Tui-netcore
+- :books: First Bash book
 - 🖱 Blogging
-- ▶ YouTube Channel
+- :arrow_forward: YouTube Channel
 
-## 🤓 And I'm studying
-
-- 🟢 Vue.js
-- 🔵 SignalR
-- 🔐 JWT auth
-
-## 👯 Collaboration
+## :dancers: Collaboration
 I'm always looking for some project I can participate. ALWAYS.
 
-## 📫 How to reach me
+## :mailbox: How to reach me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fcrozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/fcrozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernandocrozetta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/crozetta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4533171/fernando-crozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://czetta.com)  
 
