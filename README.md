@@ -35,7 +35,7 @@ I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my p
 - :arrow_forward: [YouTube Channel](https://www.youtube.com/channel/UCkiH-M_dTdmVjR6T_vf5pMw)
 
 ## :dancers: Collaboration
-I'm always looking for some project I can participate. ALWAYS.
+I'm always looking for some project I can participate.
 
 ## :mailbox: How to reach me
 
