@@ -29,10 +29,10 @@ I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my p
   
 ## 🔭 I am currently working on
 
-- :eyeglasses: Tui-netcore
+- :eyeglasses: [Tui-netcore](https://www.nuget.org/packages/fc.tui-core/)
 - :books: First Bash book
-- 🖱 Blogging
-- :arrow_forward: YouTube Channel
+- 🖱 [Blogging](blog.czetta.com)
+- :arrow_forward: [YouTube Channel](https://www.youtube.com/channel/UCkiH-M_dTdmVjR6T_vf5pMw)
 
 ## :dancers: Collaboration
 I'm always looking for some project I can participate. ALWAYS.
