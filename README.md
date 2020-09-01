@@ -29,7 +29,6 @@ I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my p
   
 ## 🔭 I am currently working on
 
-- :earth_americas: (anywhere in the world **and/or** remote)
 - :eyeglasses: Tui-netcore
 - :books: First Bash book
 - 🖱 Blogging
