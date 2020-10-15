@@ -19,7 +19,7 @@ I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my p
 ## 🧐 My favorite Technologies:
  
 - :heart: tui-netcore (my 1st library)
-- 🧡 Vue
+- 🧡 Ionic - Angular
 - :yellow_heart: Flutter
 - :green_heart: MongoDB
 - :blue_heart: PostgreSQL
