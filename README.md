@@ -13,12 +13,11 @@ I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my p
 - :snake: Python
 - 🥽 C#
 - 🖥 Bash
-- :globe_with_meridians: Typescript
-- :globe_with_meridians: Javascript
-- :heart: tui-netcore (my 1st library)
-- Gremlin / graph databases
-- Azure
-- Svelte (learning
+- 🌐 Typescript
+- 💟 tui-netcore (my 1st library)
+- 💚 Gremlin / graph databases
+- 💙 Azure
+- 🧡 Svelte (learning
   
 ## 🔭 I am currently working on
 
