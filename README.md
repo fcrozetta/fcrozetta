@@ -8,24 +8,17 @@ I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my p
 
 ---
 
-## 🕶 My favorite languages:
+## 🕶 My favorite technologies:
 
 - :snake: Python
 - 🥽 C#
 - 🖥 Bash
 - :globe_with_meridians: Typescript
 - :globe_with_meridians: Javascript
-
-## 🧐 My favorite Technologies:
- 
 - :heart: tui-netcore (my 1st library)
-- 🧡 Ionic - Angular
-- :yellow_heart: Flutter
-- :green_heart: MongoDB
-- :blue_heart: PostgreSQL
-- :purple_heart: Heroku
-- 🤎Azure
-- 🖤 AWS (learning)
+- Gremlin / graph databases
+- Azure
+- Svelte (learning
   
 ## 🔭 I am currently working on
 
