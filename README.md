@@ -17,9 +17,9 @@ I'm willing to work on any project that catches my curiosity.
 - 🖥 Bash
 - 🌐 Typescript
 - 💟 tui-netcore (my 1st library)
-- 💚 Gremlin / graph databases
+- 💚 Graph databases
 - 💙 Azure
-- 🧡 Svelte (learning
+- 🧡 Svelte (learning)
   
 ## 🔭 I am currently working on
 
