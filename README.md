@@ -25,7 +25,7 @@ I'm willing to work on any project that catches my curiosity.
 
 - :eyeglasses: [Tui-netcore](https://www.nuget.org/packages/fc.tui-core/)
 - :books: First Bash book
-- 🖱 [Blogging](blog.czetta.com)
+- 🖱 [Blogging](https://blog.czetta.com)
 - :arrow_forward: [YouTube Channel](https://www.youtube.com/channel/UCkiH-M_dTdmVjR6T_vf5pMw)
 
 ## :dancers: Collaboration
