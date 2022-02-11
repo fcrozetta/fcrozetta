@@ -13,14 +13,11 @@ I'm willing to work on any project that catches my curiosity.
 ## 🕶 My favorite technologies:
 
 - :snake: Python
-- 🥽 C#
-- 🖥 Bash
-- 🌐 Typescript
-- 💟 tui-netcore (my 1st library)
 - 💚 Graph databases
-- 💙 Azure
-- 🧡 Svelte (learning)
-  
+- 🖥 Bash
+- 💟 tui-netcore (my 1st library - C#)  
+
+
 ## 🔭 I am currently working on
 
 - :eyeglasses: [Tui-netcore](https://www.nuget.org/packages/fc.tui-core/)
@@ -30,11 +27,6 @@ I'm willing to work on any project that catches my curiosity.
 
 ## :dancers: Collaboration
 I'm always looking for some project I can participate.
-
-## :mailbox: How to reach me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fcrozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/fcrozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernandocrozetta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/crozetta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4533171/fernando-crozetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://czetta.com)  
-
 
 <!--
 **fcrozetta/fcrozetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
