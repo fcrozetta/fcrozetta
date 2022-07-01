@@ -1,7 +1,7 @@
 ## Hi there 👋
 You found my github profile. That's great! Allow me to introduce myself:
 
-I'm Fernando Crozetta, a software engineer from Brazil🇧🇷, and I found my passion in coding ⌨. I develop mostly back end, but i have done some mobile apps, front end as well.
+I'm Fernando Crozetta, a software engineer from Brazil🇧🇷 (living in the Netherlands), and I found my passion in coding ⌨. I develop mostly back end, but i have done some mobile apps, front end as well.
 
 I'm willing to work on any project that catches my curiosity.
 
