@@ -15,15 +15,12 @@ I'm willing to work on any project that catches my curiosity.
 - :snake: Python
 - 💚 Graph databases
 - 🖥 Bash
-- 💟 tui-netcore (my 1st library - C#)  
 
 
 ## 🔭 I am currently working on
 
-- :eyeglasses: [Tui-netcore](https://www.nuget.org/packages/fc.tui-core/)
-- :books: First Bash book
+- :books: First Book
 - 🖱 [Blogging](https://fcrozetta.substack.com/) (WIP)
-- :arrow_forward: [YouTube Channel](https://www.youtube.com/channel/UCkiH-M_dTdmVjR6T_vf5pMw) (Soon)
 
 ## :dancers: Collaboration
 I'm always looking for some project I can participate.
