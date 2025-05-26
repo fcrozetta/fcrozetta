@@ -15,6 +15,7 @@ I'm willing to work on any project that catches my curiosity.
 - :snake: Python
 - 💚 Graph databases
 - 🖥 Bash / Shell scripting
+- 🦀 Rust (learning)
 
 
 ## 🔭 I am currently working on
